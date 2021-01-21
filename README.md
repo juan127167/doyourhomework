@@ -1,3 +1,6 @@
+#这个项目是基于 vue+vuex+vue-router实现的，非常适合新手入门。
+
+
 # my-happy
 
 > A Vue.js project
